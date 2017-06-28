@@ -20,7 +20,7 @@ namespace TableTennisApp
                     Children = {
                          new Label {
                              HorizontalTextAlignment = TextAlignment.Center,
-                             Text = "Welcome to Xamarin Forms!"
+                             Text = "Добро пожаловать!"
                          }
                      }
                 }
