@@ -16,6 +16,7 @@ namespace TableTennisApp.Droid
         {
             base.OnCreate(bundle);
 
+            //тестовый коммент
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
         }
